@@ -100,9 +100,12 @@ Tổng quãng đường: 10
 **Visualization:**
 
 ```
-S . . . .
-. # # # #
-E * * * *
+S . . # . .
+. # . # . #
+. . * * * .
+# . # # * .
+. . . . * .
+. # . # # E
 
 S = Start, E = End, # = Wall, * = Path
 ```
