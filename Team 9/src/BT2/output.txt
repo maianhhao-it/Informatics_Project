@@ -1,0 +1,24 @@
+=== TINH TRANG KHO ===
+Kich thuoc: 3x4x3
+So luong hang: 10
+O trong: 26
+
+--- DANH SACH HANG (sap xep theo NgayNhap) ---
+[0,1,2] H006     | SL:  12 | Loai:ThucPham     | Uu tien:1 | NgayNhap:27/11/2025 16:15:00
+[0,0,0] H001     | SL:  10 | Loai:ThucPham     | Uu tien:1 | NgayNhap:28/11/2025 08:00:00
+[1,0,0] H010     | SL:   6 | Loai:ThucPham     | Uu tien:2 | NgayNhap:29/11/2025 07:45:00
+[0,1,0] H004     | SL:  15 | Loai:DienTu       | Uu tien:1 | NgayNhap:30/11/2025 14:00:00
+[0,2,0] H007     | SL:   9 | Loai:ThucPham     | Uu tien:2 | NgayNhap:30/11/2025 18:00:00
+[0,0,1] H002     | SL:   5 | Loai:DoDung       | Uu tien:2 | NgayNhap:29/11/2025 09:00:00
+[0,1,1] H005     | SL:   7 | Loai:DoDung       | Uu tien:2 | NgayNhap:01/12/2025 12:00:00
+[0,2,1] H008     | SL:   8 | Loai:DienTu       | Uu tien:3 | NgayNhap:02/12/2025 09:30:00
+[0,0,2] H003     | SL:  20 | Loai:ThucPham     | Uu tien:3 | NgayNhap:01/12/2025 10:30:00
+[0,2,2] H009     | SL:  14 | Loai:DoDung       | Uu tien:1 | NgayNhap:01/12/2025 11:00:00
+
+=== THONG KE THEO LOAI ===
+ThucPham: 5 items, Tong SL = 57
+DoDung: 3 items, Tong SL = 26
+DienTu: 2 items, Tong SL = 23
+
+Xuat FIFO: H006
+Xuat theo UuTien: H001
