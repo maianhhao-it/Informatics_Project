@@ -1,0 +1,4 @@
+Chu ky 2: Canh bao: Cam bien S11 (1,1) bi hu (khong doi 2 chu ky)
+Chu ky 3: Khu vuc (0,0) tang dot ngot 4.3C [Sensors: S00, S01, S10, S11]
+Chu ky 4: Nhiet do cao tai khu vuc (0,0) avg=0.25C [Sensors: S00, S01, S10, S11]
+Chu ky 4: Khu vuc (0,0) tang dot ngot 3.8C [Sensors: S00, S01, S10, S11]
